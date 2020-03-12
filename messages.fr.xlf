@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="847171f94c5e932a67df0c3b4d57e4e10d844b52" datatype="html">
+        <source>About Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <target>À propos de nous</target>
+      </trans-unit>
+      <trans-unit id="f9e33c8b36d449d3fefdd79342e8ca696f2dcdd0" datatype="html">
+        <source>
+          Get to know about our company
+          <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em>"/>
+          <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d7368c767658ca0aa032bff75c1c6a708ac15392" datatype="html">
+        <source>
+          Fusce nec ultrices lectus. Duis nec scelerisque risus. Ut id tempor turpis, ac dignissim ipsum. Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem.
+                    Pellentesque in sagittis lacus, vel auctor sem. Quisque eu quam eleifend, ullamcorper dui nec, luctus quam.
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="02e9e69ddcbf93de9fd38bc4d0f312142658610d" datatype="html">
+        <source>Contact Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <target>Nous contacter</target>
+      </trans-unit>
+      <trans-unit id="6934d8edd276d59e050006fe91b695ebad0218f8" datatype="html">
+        <source>Phone</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <target>Téléphone</target>
+      </trans-unit>
+      <trans-unit id="1cadf42841ad9cc6cfa08247af1251420e84dec5" datatype="html">
+        <source>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <target>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</target>
+      </trans-unit>
+      <trans-unit id="244aae9346da82b0922506c2d2581373a15641cc" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="ed31c09fd77c36238c13d83635f3fe5294c733d2" datatype="html">
+        <source>Location</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <target>Emplacement</target>
+      </trans-unit>
+      <trans-unit id="404eb3c934d838ed46ab9cb826d3630d5650ee87" datatype="html">
+        <source>
+          1020 New Mountain StreetForest Park, FP 11220
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b2f44399f1d2a77c28ec8a21c99a092079555043" datatype="html">
+        <source>
+          Send us a message
+          <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em>"/>
+          <x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="eb2087369799c039b8e8a8499827f5c661a16536" datatype="html">
+        <source>
+          Mon-Fri 09:00-17:00
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i>"/>
+          <x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d3b38b2d23f9f97e767a8b0706122661ecbe2aae" datatype="html">
+        <source>
+          090-080-0760
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i>"/>
+          <x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="69cf32e72b117444740d70be61969ef24f178485" datatype="html">
+        <source>
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i>"/>
+          <x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="f5e5342314e86f7bc27d1da6d1b0735698144271" datatype="html">
+        <source>Finance Business</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav/nav.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <target>Affaires financières</target>
+      </trans-unit>
+      <trans-unit id="a922b7853484980620b5ed7296fd152d2b1e4057" datatype="html">
+        <source>we are ready to help you</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <target>Nous sommes prêts à vous aider</target>
+      </trans-unit>
+      <trans-unit id="ebf7d213af2d2c54b2d08fa0ea1efac4c3dcf3bc" datatype="html">
+        <source>
+          Financial Analysis&amp; Consulting
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="420cae297b407e8f18cfb7465e568d7fa1c1444f" datatype="html">
+        <source>We provide financial analysis services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <target>Nous fournissons des services d'analyse financière</target>
+      </trans-unit>
+      <trans-unit id="283c1e136f3145663bc429d94697e435914d2618" datatype="html">
+        <source>we have a solid background</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <target>nous avons une solide expérience</target>
+      </trans-unit>
+      <trans-unit id="39d0e481dba2486a68fa7e1da5b3ab34a92f439b" datatype="html">
+        <source>
+          Market Analysis&amp; Statistics
+          <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="662c498502e1e5258c3f2ba4daf380d9bb992d8c" datatype="html">
+        <source>We provide market analytics and statistics services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <target>Nous fournissons des services d'analyse de marché et de statistiques</target>
+      </trans-unit>
+      <trans-unit id="297dee6e95a12290da0b64a4e1e3e5239d34583e" datatype="html">
+        <source>Request a call back right now ?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <target>Demander un rappel maintenant?</target>
+      </trans-unit>
+      <trans-unit id="25f971bd170d689980e598f52a6ebe717da361b2" datatype="html">
+        <source>Vivamus tellus mi. Nulla ne cursus elit,vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <target>Vivamus tellus mi. Nulla ne cursus elit, vulputate. Sed ne cursus augue hasellus lacinia sapien vitae.</target>
+      </trans-unit>
+      <trans-unit id="e50fd44000fc9fa68a347c633230abf145e9a63f" datatype="html">
+        <source>Useful Links</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <target>Liens utiles</target>
+      </trans-unit>
+      <trans-unit id="b3f89df452a32e952befc65099bcc1696209b374" datatype="html">
+        <source>
+          Vivamus ut tellus mi
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d24741211d9aa4966ecabd4f1dbec414f59f29ed" datatype="html">
+        <source>
+          Nulla nec cursus elit
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="c370e884e5fc06dbca565d61eb22688daca88465" datatype="html">
+        <source>
+          Vulputate sed nec
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19b5024f76d6089a505e8cdba82b279713ac06d8" datatype="html">
+        <source>
+          Cursus augue hasellus
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="e5be6a664e701eef7bb542f38a728757f98b413e" datatype="html">
+        <source>
+          Lacinia ac sapien
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="49dbf00d2f96dc7deb7106b67687013cc7f21010" datatype="html">
+        <source>Additional Pages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <target>Pages additionnelles</target>
+      </trans-unit>
+      <trans-unit id="1ef1f8d0510b5dd9e6dc31f9e9a428b283ba5f70" datatype="html">
+        <source>
+          About Us
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="a80c8a7965284c33c9772c1a69e2612fd7f5ac13" datatype="html">
+        <source>
+          How We Work
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="dcc686cacbfaa64015b6a76e3e5f75da6317a6db" datatype="html">
+        <source>
+          Quick Support
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="83a7dbd74079d27bcb311af4d2498a038f59e555" datatype="html">
+        <source>
+          Contact Us
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="694886ad5fa59a53f289962f880f37a3a2dda749" datatype="html">
+        <source>
+          Privacy Policy
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="1a45bf8fa5db53bc09f269e91a861949c125ceed" datatype="html">
+        <source>
+          Copyright © 2020 Financial Business Co., Ltd.
+
+            - Design: TemplateMo
+          <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>
+          <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
