@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Important Notice
-This project was created as an example use case of ButterCMS in conjunction with Angular and internationalisation and will not be actively maintained. 
+This project was created as an example use case of ButterCMS in conjunction with Angular and internationalisation for the article [Angular Localization: The Why, What, and How](https://buttercms.com/blog/angular-localization-the-why-what-and-how/) and will not be actively maintained. 
 
 If you’re interested in exploring the best, most up-to-date way to integrate Butter into Angular, you can check out the following resources:
 
